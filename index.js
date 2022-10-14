@@ -5,3 +5,5 @@ alert("Hello Wrold Again From Meta Class");
 window.alert("another alert using window.alert");
 var age = 44 ;
 console.log (age)
+let pc = "mac book pro"
+alert(pc)

@@ -8,7 +8,7 @@ console.log(typeof empty1,empty2)
 let a = "Hello";
 a = "world";
 console.log(a);
-let e = "hello";
+let e = "hello";//commit com macbook pc
 a = prompt("world");
 console.log(a);
 console.log(typeof a)

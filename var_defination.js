@@ -5,4 +5,4 @@ var address = ; //undefined value call undefined variable
 var address = "home" //for redeclar value to variable
 var imp = null //there is no value define call null empty
 var address = undefined: //for undefined variable again
-
+let pc = "macbook"

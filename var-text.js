@@ -7,3 +7,4 @@ abc = 'new wrold'
 alert(name1)
 console.log(myname)
 console.log(abc)
+//macb book
